@@ -1,19 +1,3 @@
-object rosa{
-	
-}
-
-object estefania{
-	
-}
-
-object color{
-	
-}
-
-object material{
-	
-}
-
 object remera{
 	const color = rojo;
 	const material = lino;
