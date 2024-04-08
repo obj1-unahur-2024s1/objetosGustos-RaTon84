@@ -28,4 +28,25 @@ object placa{
 	const peso = 0;/*ver peso */
 }
 
+object arito{
+	const color = celeste;
+	const material = cobre;
+	const peso = 180;
+}
+
+object banquito{
+	const color = naranja;/*puede variar */
+	const material = madera;
+	const peso = 1700;
+}
+
+object cajita{
+	const color = rojo;
+	const material = cobre;
+	const peso = 400;
+	
+	method pesoTotal(){
+		return peso += pesodeotrobjeto/*ver peso */
+	}
+}
 
