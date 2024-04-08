@@ -1,3 +1,5 @@
+import objetos.*
+
 object bolichito{
 	
 	method esBrillante(){
