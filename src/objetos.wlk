@@ -2,6 +2,11 @@ object remera{
 	const color = rojo;
 	const material = lino;
 	const peso = 800;
+	
+	method hola(){
+		return color;
+	}
+	
 }
 
 object pelota{
