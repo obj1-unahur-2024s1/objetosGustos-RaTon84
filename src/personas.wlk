@@ -6,12 +6,13 @@ object rosa{
 	}
 }
 /*Estefanía: le gustan las cosas de colores fuertes.*/
-object estefania{		
+object estefania{	
+		
 	method leGusta(cosa){
 		return cosa.esColorFuerte()
 	}
 	/*sobrecarga*/
-	method leGusta(cosa,color){
+	method leGusta(cosa,color){		
 		return color == "rojo" || color == "verde";
 	}
 }
