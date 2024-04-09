@@ -1,4 +1,11 @@
 import objetos.*
+object mostrador{
+	
+}
+
+object vidriera{
+	
+}
 
 object bolichito{
 	
