@@ -1,14 +1,16 @@
 import objetos.*
-object mostrador{
+
+object mostrador {
 	
+
+
+object vidriera {
+	method vende(){}
 }
 
-object vidriera{
-	
-}
-
-object bolichito{
-	
+object bolichito {
+	var vidriera= vidriera.vende;
+	var mostrador = "";
 	method esBrillante(){
 		
 	}
